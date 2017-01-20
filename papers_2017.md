@@ -1,6 +1,8 @@
 - [Learning a Probabilistic Latent Space of Object Shapes 
 via 3D Generative-Adversarial Modeling. NIPS 2017](http://3dgan.csail.mit.edu/)
 
+*Presented by Pooran Singh Negi*
+
 **Summary:** Papers propose **3D- Generative Adversial Network(3D-GAN)**
 for 3D object creation using sample of a probablistic space and classification
 task. This latent space acan also be inferred as shown in 2D image to 3D image
