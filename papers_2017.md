@@ -1,3 +1,4 @@
+<details><summary>**Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. NIPS 2017**</summary><p>
 # Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling. NIPS 2017
 
 [Access link](http://3dgan.csail.mit.edu/)
@@ -28,6 +29,10 @@ Network:
   + 3D-VAE-GAN
   ![alt text](./papers_figures/figures_2017/3d_vae_gan_loss_fn.jpeg "3D-VAE-GAN loss function")
 
+</p></details>
+
+
+<details><summary>**Deep Neural Decision Forests. ICCV 2015**</summary><p>
 
 # Deep Neural Decision Forests. ICCV 2015
 [Access link](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)
@@ -76,4 +81,4 @@ networks.
 
 
 ![alt text](./papers_figures/figures_2017/Learning_forests.jpg "Learning forests")
-
+</p></details>
