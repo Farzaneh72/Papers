@@ -3,6 +3,10 @@
 
 [Access link](http://3dgan.csail.mit.edu/)
 
+**Other related resource not presented**
+- Fundamental paper on GAN [Access link] (https://arxiv.org/pdf/1406.2661v1.pdf)
+- you tube video of From Facebook AI research - Soumith Chintala - Adversarial Networks [Access link](https://www.youtube.com/watch?v=QPkb5VcgXAM&t=257s)
+
 *Presented by Pooran Singh Negi*
 
 **Summary:** Papers propose **3D- Generative Adversial Network(3D-GAN)**
