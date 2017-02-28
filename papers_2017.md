@@ -86,3 +86,29 @@ networks.
 
 ![alt text](./papers_figures/figures_2017/Learning_forests.jpg "Learning forests")
 </p></details>
+
+<details><summary>**Scene Labeling with LSTM Recurrent Neural Networks. CVPR 2015**</summary><p>
+# Scene Labeling with LSTM Recurrent Neural Networks. CVPR 2015
+[Access Link](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
+
+Presented by *Behzad Hasani*
+
+**Summary:**
+
+This paper addresses the problem of pixel-level segmentation and classification of scene images with an entirelym learning-based approach using Long Short Term Memory (LSTM) recurrent neural networks, which are commonly used for sequence classification. They investigate two-dimensional (2D) LSTM networks for natural scene images taking into account the complex spatial dependencies of labels. Prior methods generally have required separate classification and image segmentation stages and/or pre- and post-processing. In this approach, classification, segmentation, and context integration are all carried out by 2D LSTM networks, allowing texture and spatial model parameters to be learned within a single model. The networks efficiently capture local and global contextual information over raw RGB values and adapt well for complex scene images. This approach, which has a much lower computational complexity than prior methods, achieved state-ofthe- art performance over the Stanford Background and the SIFT Flow datasets. In fact, if no pre- or post-processing is applied, LSTM networks outperform other state-of-the-art approaches. Hence, only with a **single-core** CPU, the running time of our approach is equivalent or better than the compared state-of-the-art approaches which use a GPU. Finally, the networks’ ability to visualize feature maps from each layer supports the hypothesis that LSTM networks are overall suited for image processing tasks.
+
+[What is LSTM?](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+**Proposed Network Architecture:**
+
+![alt text](./papers_figures/figures_2017/Network_Behzad.jpg "Network Architecture")
+
+**Results:**
+
+![alt text](./papers_figures/figures_2017/Results1_Behzad.jpg "Results on Stanford Background dataset")
+
+![alt text](./papers_figures/figures_2017/Results2_Behzad.jpg "Results on SIFT Flow dataset")
+
+**Examples:**
+
+![alt text](./papers_figures/figures_2017/examples_Behzad.jpg "Sample Images")
