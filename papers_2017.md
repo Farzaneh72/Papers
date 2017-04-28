@@ -113,4 +113,9 @@ This paper addresses the problem of pixel-level segmentation and classification 
 
 ![alt text](./papers_figures/figures_2017/examples_Behzad.jpg "Sample Images")
 </details>
-<details><summary>**Farzaneh Presentation goes here**</summary><p>
+
+<details><summary>**Mirroring Emotion System – On-line Synthesizing Facial Expressions on a Robot Face**</summary><p>
+
+# Mirroring Emotion System – On-line Synthesizing Facial Expressions on a Robot Face
+
+
